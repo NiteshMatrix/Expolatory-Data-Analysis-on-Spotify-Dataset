@@ -11,18 +11,18 @@ The Spotify dataset used for this analysis was obtained from Kaggle (https://jov
 The analysis was performed using Python 3.8. The following Python libraries were used:
 
 • Pandas: for data manipulation and analysis <br>
-• Matplotlib: for basic data visualization
-• Seaborn: for more advanced data visualization
-• Plotly: for interactive data visualization
+• Matplotlib: for basic data visualization <br>
+• Seaborn: for more advanced data visualization <br>
+• Plotly: for interactive data visualization <br>
 
 ## Analysis
 
 The analysis was divided into several parts, including:
 
-• Data cleaning and preprocessing: removing duplicate tracks, handling missing values, and converting data types as necessary
-• Overview of the dataset: exploring the distribution of features such as danceability, energy, loudness, and tempo
-• Trends over time: analyzing the changes in music trends over the past century, such as the popularity of certain genres and the evolution of musical features
-• Correlations between features: examining the relationships between various features and identifying any patterns or trends
+• Data cleaning and preprocessing: removing duplicate tracks, handling missing values, and converting data types as necessary <br>
+• Overview of the dataset: exploring the distribution of features such as danceability, energy, loudness, and tempo <br>
+• Trends over time: analyzing the changes in music trends over the past century, such as the popularity of certain genres and the evolution of musical features <br>
+• Correlations between features: examining the relationships between various features and identifying any patterns or trends <br>
 
 ## Summary of Analysis
 
