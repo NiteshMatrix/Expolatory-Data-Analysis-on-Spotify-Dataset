@@ -10,10 +10,10 @@ The Spotify dataset used for this analysis was obtained from Kaggle (https://jov
 
 The analysis was performed using Python 3.8. The following Python libraries were used:
 
-Pandas: for data manipulation and analysis
-Matplotlib: for basic data visualization
-Seaborn: for more advanced data visualization
-Plotly: for interactive data visualization
+• Pandas: for data manipulation and analysis
+• Matplotlib: for basic data visualization
+• Seaborn: for more advanced data visualization
+• Plotly: for interactive data visualization
 
 ## Analysis
 
